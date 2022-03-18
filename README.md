@@ -20,7 +20,7 @@
 
 - ⚡ What I enjoy doing: *I love playing board & video games, reading books, relaxing by playing on my two guitars, learning history and role-playing...**as well as, obviously, coding***
 
-- 🎮 Mainly I enjoy playing & developing **shooter, strategy & RPG genres video games**
+- 🎮 Mainly I enjoy playing & developing **shooter, strategy, story-driven & RPG genres video games**
   
 ---
 
