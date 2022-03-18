@@ -20,7 +20,6 @@
 
 - 🎮 Mainly I enjoy playing & developing **shooter, strategy & RPG genres video games**
   
-
 ---
 
 <h3 align="center">Languages and Tools:</h3>
@@ -63,6 +62,10 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SirCypkowskyy&theme=tokyonight&show_icons=true" />
 
 </p>
+
+---
+
+<h3 align="center">Wakatime Data:</h3>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
