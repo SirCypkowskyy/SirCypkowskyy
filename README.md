@@ -8,7 +8,7 @@
 
 <img align="right" width=250px height=250px alt="My typical day" src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b761157vrk7gdew8yfsk2i9nrr4pm1jtlxzvrqz605ex0&rid=giphy.gif&ct=s"/>
 
-- 📖 I’m currently studying *Computer Science* at the *<a href="https://www.pja.edu.pl/en">Polish-Japanese Academy of Information Technology</a>*
+- 📖 I study *Computer Science* at the *<a href="https://www.pja.edu.pl/en">Polish-Japanese Academy of Information Technology</a>*
 
 - 🧑‍💻 In my spare time I'm trying to improve my web (HTML5, CSS, JS, Python *[Flask]*), video games (C# *[Unity]*) and software development skills 
 
