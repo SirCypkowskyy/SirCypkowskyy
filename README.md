@@ -95,7 +95,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -134,7 +134,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/03/2022 02:10:37 UTC
+ Last Updated on 18/03/2022 18:44:32 UTC
 <!--END_SECTION:waka-->
   
 ---
