@@ -94,8 +94,6 @@
 *Note, I started using Wakatime just a few days ago (that is around 15.03.2022)*
 <br>
 
-<div align="center">
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue)
 
@@ -138,8 +136,6 @@ CSS                      1 repo              ███░░░░░░░░�
 
  Last Updated on 18/03/2022 02:10:37 UTC
 <!--END_SECTION:waka-->
-
-</div>
   
 ---
 
