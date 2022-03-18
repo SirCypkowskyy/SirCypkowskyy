@@ -58,11 +58,8 @@
   </a>
 </p>
 <br>
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=SirCypkowskyy&theme=tokyonight&show_icons=true" />
 
-<p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SirCypkowskyy&theme=tokyonight&show_icons=true" />
-</p>
-<p align="right">
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue)
 
@@ -153,7 +150,6 @@ CSS                      1 repo              ███░░░░░░░░�
 
  Last Updated on 18/03/2022 01:57:01 UTC
 <!--END_SECTION:waka-->
-</p>
 
 ---
 
