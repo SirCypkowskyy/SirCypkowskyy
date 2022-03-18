@@ -57,11 +57,32 @@
   </a>
 </p>
 <div align="center">
-<h2>GitHub Stats:</h3>
+<h3>GitHub Stats:</h3>
 
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SirCypkowskyy&theme=tokyonight&show_icons=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirCypkowskyy&layout=compact&theme=tokyonight&l&langs_count=10" alt="my github stats" />
   
+</div>
+
+---
+
+<h3 align="center">My Games Projects:</h3>
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sircypkowskyy.itch.io/)
+
+***Chao Perpetuum*** - https://bloodyedward.itch.io/chao-prepetuum
+<br>
+***A.D. 1656*** - https://chanjohann.itch.io/ad-1656
+<br>
+***Son of a Gun*** - https://sircypkowskyy.itch.io/son-of-a-gun
+<br>
+***Dead Ringer*** - https://bloodyedward.itch.io/dead-ringer
+<br>
+***Welcome to the Funk Zone*** - https://bloodyedward.itch.io/funkzone
+<br>
+***Keep It Live*** - https://zubrzysta.itch.io/keep-it-live
+
 </div>
 
 ---
@@ -114,25 +135,6 @@ CSS                      1 repo              ███░░░░░░░░�
 
  Last Updated on 18/03/2022 02:10:37 UTC
 <!--END_SECTION:waka-->
-
----
-
-<h3 align="center">Games Projects:</h3>
-<div align="center">
-
-***Chao Perpetuum*** - https://bloodyedward.itch.io/chao-prepetuum
-<br>
-***A.D. 1656*** - https://chanjohann.itch.io/ad-1656
-<br>
-***Son of a Gun*** - https://sircypkowskyy.itch.io/son-of-a-gun
-<br>
-***Dead Ringer*** - https://bloodyedward.itch.io/dead-ringer
-<br>
-***Welcome to the Funk Zone*** - https://bloodyedward.itch.io/funkzone
-<br>
-***Keep It Live*** - https://zubrzysta.itch.io/keep-it-live
-
-</div>
 
 ---
 
