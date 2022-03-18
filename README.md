@@ -16,6 +16,8 @@
 
 - 🤳 How to contact me: <a href=mailto:dcyprian.a.gburek@gmail.com>**dcyprian.a.gburek@gmail.com**</a>
 
+- 🔖 You can acquire my CV (if you wish so) by downloading it from this repo's cv folder or by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-31-21.pdf">this link.</a>
+
 - ⚡ What I enjoy doing: *I love playing board & video games, reading books, relaxing by playing on my two guitars, learning history and role-playing...**as well as, obviously, coding***
 
 - 🎮 Mainly I enjoy playing & developing **shooter, strategy & RPG genres video games**
@@ -90,8 +92,9 @@
 <h3 align="center">Wakatime Data:</h3>
 
 *Note, I started using Wakatime just a few days ago (that is around 15.03.2022)*
-
 <br>
+
+<div align="center">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue)
@@ -136,6 +139,8 @@ CSS                      1 repo              ███░░░░░░░░�
  Last Updated on 18/03/2022 02:10:37 UTC
 <!--END_SECTION:waka-->
 
+</div>
+  
 ---
 
 <h3 align="center">Contact me:</h3>
