@@ -67,6 +67,10 @@
 
 <h3 align="center">Wakatime Data:</h3>
 
+*Note, I started using Wakatime just a few days ago (that is around 15.03.2022)*
+
+<br>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue)
 
@@ -131,7 +135,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 ---
 
-<h3 align="center">Connect me:</h3>
+<h3 align="center">Contact me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprian-gburek-a58190213/)
