@@ -12,7 +12,7 @@
 
 - 🧑‍💻 In my spare time I'm trying to improve my web (HTML5, CSS, JS, Python *[Flask]*), video games (C# *[Unity]*) and software development skills 
 
-- 🪂 I’m keen to collaborate on **video game, front-end & back-end projects**
+- 🪂 I’m keen to collaborate on **video games, front-end & back-end projects**
 
 - 🤳 How to contact me: <a href=mailto:dcyprian.a.gburek@gmail.com>**dcyprian.a.gburek@gmail.com**</a>
 
