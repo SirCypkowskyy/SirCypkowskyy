@@ -56,12 +56,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
 </p>
-<br>
-<p align="center">
+<div align="center">
+<h2>GitHub Stats:</h3>
 
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SirCypkowskyy&theme=tokyonight&show_icons=true" />
-
-</p>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirCypkowskyy&layout=compact&theme=tokyonight&l&langs_count=10" alt="my github stats" />
+  
+</div>
 
 ---
 
