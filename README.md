@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cyprian <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
 
-<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Computer Science</a> student with 2+ years of non-commercial experience programming and developing video games</h3>
+<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Computer Science</a> student with 2+ years of non-commercial experience programming and video games development experience</h3>
 
 ---
 
@@ -10,17 +10,17 @@
 
 - 📖 I study *Computer Science* at the *<a href="https://www.pja.edu.pl/en">Polish-Japanese Academy of Information Technology</a>*
 
-- 🧑‍💻 In my spare time I'm trying to improve my web (HTML5, CSS, JS, Python *[Flask]*), video games (C# *[Unity]*) and software development skills 
+- 🧑‍💻 In my spare time I enjoy improving my web (HTML5, CSS, JS, Python *[Flask]*), video games (C# *[Unity]*) and software development skills 
 
-- 🪂 I’m keen to collaborate on **video games, front-end & back-end projects**
+- 🪂 I take joy in working on various **video games, front-end & back-end projects**
 
-- 🤳 How to contact me: <a href=mailto:dcyprian.a.gburek@gmail.com>**dcyprian.a.gburek@gmail.com**</a>
+- 🤳 Feel free to contact me via: <a href=mailto:dcyprian.a.gburek@gmail.com>**dcyprian.a.gburek@gmail.com**</a>
 
-- 🔖 You can acquire my CV (if you wish so) by downloading it from this repo's cv folder or by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-50-09.pdf">here.</a>
+- 🔖 You can get my cv by downloading it from this repo's cv folder or by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-50-09.pdf">here.</a>
 
-- ⚡ What I enjoy doing: *I love playing board & video games, reading books, relaxing by playing on my two guitars, learning history and role-playing...**as well as, obviously, coding***
+- ⚡ My main hobbies include: *playing board & video games, reading books, playing guitar, studying history and role-playing...**as well as, obviously, coding***
 
-- 🎮 Mainly I enjoy playing & developing **shooter, strategy, story-driven & RPG genres video games**
+- 🎮 My favourite video games genres to play and develop are **shooter, strategy, story-driven & RPG**
   
 ---
 
