@@ -16,7 +16,7 @@
 
 - 🤳 Feel free to contact me via: <a href=mailto:dcyprian.a.gburek@gmail.com>**dcyprian.a.gburek@gmail.com**</a>
 
-- 🔖 You can get my cv by downloading it from this repo's cv folder or by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-50-09.pdf">here.</a>
+- 🔖 You can get my cv by downloading it from this repo's cv folder or by clicking <a href="https://github.com/SirCypkowskyy/SirCypkowskyy/raw/main/cv/Cyprian_Gburek_Resume_18-03-2022-11-50-09.pdf">here</a>
 
 - ⚡ My main hobbies include: *playing board & video games, reading books, playing guitar, studying history and role-playing...**as well as, obviously, coding***
 
