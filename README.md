@@ -91,7 +91,6 @@
 
 <h3 align="center">Wakatime Data:</h3>
 
-*Note, I started using Wakatime just a few days ago (that is around 15.03.2022)*
 <br>
 
 <!--START_SECTION:waka-->
@@ -151,4 +150,4 @@ CSS                      1 repo              ███░░░░░░░░�
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 22/03/2022`
+`Last Manual Update on: 24/03/2022`
