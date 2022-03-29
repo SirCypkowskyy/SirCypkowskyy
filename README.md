@@ -89,6 +89,21 @@
 
 ---
 
+<h3 align="center">WakaTime</h3>
+<div align="center">
+
+<img src="https://wakatime.com/badge/user/08e334c0-a2a5-4c39-8173-a87d861cbd46.svg"/>
+
+</div>
+<div align="center">
+
+<img height="375" src="https://wakatime.com/share/@SirCypkowskyy/306f4179-2644-4c3c-a5ea-9fea3a88c35d.svg"/>
+<img height="375" src="https://wakatime.com/share/@SirCypkowskyy/2f0cb858-ac8f-4c3d-a939-e68ae8b6a091.svg"/>
+
+</div>
+
+---
+
 <h3 align="center">Contact me:</h3>
 <div align="center">
 
@@ -98,7 +113,7 @@
   
 </div>
 
-------
+---
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
