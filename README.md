@@ -89,7 +89,7 @@
 
 ---
 
-<h3 align="center">WakaTime</h3>
+<h3 align="center">WakaTime Stats:</h3>
 <div align="center">
 
 <img src="https://wakatime.com/badge/user/08e334c0-a2a5-4c39-8173-a87d861cbd46.svg"/>
