@@ -97,8 +97,8 @@
 </div>
 <div align="center">
 
-<img height="375" src="https://wakatime.com/share/@SirCypkowskyy/306f4179-2644-4c3c-a5ea-9fea3a88c35d.svg"/>
-<img height="375" src="https://wakatime.com/share/@SirCypkowskyy/2f0cb858-ac8f-4c3d-a939-e68ae8b6a091.svg"/>
+<img height="350" src="https://wakatime.com/share/@SirCypkowskyy/306f4179-2644-4c3c-a5ea-9fea3a88c35d.svg"/>
+<img height="350" src="https://wakatime.com/share/@SirCypkowskyy/2f0cb858-ac8f-4c3d-a939-e68ae8b6a091.svg"/>
 
 </div>
 
