@@ -73,6 +73,8 @@
   
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sircypkowskyy.itch.io/)
 
+***Fear the Repo*** - https://bloodyedward.itch.io/fear-the-repo
+<br>
 ***Chao Perpetuum*** - https://bloodyedward.itch.io/chao-prepetuum
 <br>
 ***A.D. 1656*** - https://chanjohann.itch.io/ad-1656
@@ -117,4 +119,4 @@
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 29/03/2022`
+`Last Manual Update on: 06/04/2022`
