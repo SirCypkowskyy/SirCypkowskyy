@@ -58,6 +58,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
 </p>
+
+<!--- GitHub Stats (currently scrapped)
 <div align="center">
 <h3>GitHub Stats:</h3>
 
@@ -65,10 +67,11 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirCypkowskyy&layout=compact&theme=tokyonight&l&langs_count=10" alt="my github stats" />
   
 </div>
+-->
 
 ---
 
-<h3 align="center">My Games Projects:</h3>
+<h3 align="center">My Video Games Projects:</h3>
 <div align="center">
   
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sircypkowskyy.itch.io/)
@@ -119,4 +122,4 @@
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 06/04/2022`
+`Last Manual Update on: 09/04/2022`
