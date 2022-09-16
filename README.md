@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cyprian <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
 
-<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Computer Science</a> student with 2+ years of non-commercial experience programming and developing video games</h3>
+<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Computer Science</a> student with 3+ years of non-commercial experience programming and developing video games</h3>
 
 ---
 
