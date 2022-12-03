@@ -30,20 +30,11 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="intellij" width="40" height="40"/> 
-  </a>  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> 
   </a>
   <a href="https://unity.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> 
-  </a>
-   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -53,9 +44,6 @@
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
 </p>
 
