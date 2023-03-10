@@ -10,8 +10,6 @@
 
 - 📖 I study *Computer Science* at the *<a href="https://www.pja.edu.pl/en">Polish-Japanese Academy of Information Technology</a>*
 
-- 🧑‍💻 In my spare time I enjoy improving my web (HTML5, CSS, JS, Python *[Flask]*, Tailwindcss, asp.net), video games (C# *[Unity]*) and software development skills 
-
 - 🪂 I take joy in working on various **video games, front-end & back-end projects**
 
 - 🤳 Feel free to contact me via: <a href=mailto:dcyprian.a.gburek@gmail.com>**dcyprian.a.gburek@gmail.com**</a>
