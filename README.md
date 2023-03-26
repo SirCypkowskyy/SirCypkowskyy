@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Cyprian <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
 
-<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Computer Science</a> student with 3+ years of non-commercial experience programming and developing video games</h3>
+<h3 align="center">A passionate and goal-driven <a href="https://www.pja.edu.pl/en" style="background-color: #f44336">Computer Science</a> student with 3+ years of non-commercial experience programming and developing video games, open source projects and many more</h3>
 
 ---
 
-### 🧑🏻‍🏫&nbsp;Few words about Me
+<!-- ### 🧑🏻‍🏫&nbsp;Few words about Me
 
 <img align="right" width=250px height=250px alt="My typical day" src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b761157vrk7gdew8yfsk2i9nrr4pm1jtlxzvrqz605ex0&rid=giphy.gif&ct=s"/>
 
@@ -21,7 +21,10 @@
 - 🎮 My favourite video games genres to play and develop are **shooter, strategy, story-driven & RPG**
   
 ---
-
+ -->
+<div align="center"> 
+<img src="https://img.shields.io/endpoint?url=https://waka.kpostek.dev/api/compat/shields/v1/Cyprian/interval:30_days&label=last 30d"/>
+</div>
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
@@ -111,4 +114,4 @@
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 19/10/2022`
+`Last Manual Update on: 26/03/2023`
