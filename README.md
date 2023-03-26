@@ -22,9 +22,15 @@
   
 ---
  -->
-<div align="center"> 
+<div align="center">
+  <h3>Wakatime & Wakapi stats</h3>
 <img src="https://img.shields.io/endpoint?url=https://waka.kpostek.dev/api/compat/shields/v1/Cyprian/interval:30_days&label=last 30d"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cyprian&api_domain=waka.kpostek.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
 </div>
+
+---
+
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
