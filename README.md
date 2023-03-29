@@ -22,14 +22,7 @@
   
 ---
  -->
-<div align="center">
-  <h3>Wakatime & Wakapi stats</h3>
-<img src="https://img.shields.io/endpoint?url=https://waka.kpostek.dev/api/compat/shields/v1/Cyprian/interval:30_days&label=last 30d"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cyprian&api_domain=waka.kpostek.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
-</div>
 
----
 
 <h3 align="center">Tech Stack:</h3>
 
@@ -92,10 +85,13 @@
 
 ---
 
-<h3 align="center">WakaTime Stats:</h3>
+<h3 align="center">WakaTime & Wakapi Stats:</h3>
 <div align="center">
-
-<img src="https://wakatime.com/badge/user/08e334c0-a2a5-4c39-8173-a87d861cbd46.svg"/>
+  
+  <img src="https://img.shields.io/endpoint?url=https://waka.kpostek.dev/api/compat/shields/v1/Cyprian/interval:30_days&label=last 30d"/>
+  <img src="https://wakatime.com/badge/user/08e334c0-a2a5-4c39-8173-a87d861cbd46.svg"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cyprian&api_domain=waka.kpostek.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
 
 </div>
 <div align="center">
@@ -120,4 +116,4 @@
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 26/03/2023`
+`Last Manual Update on: 29/03/2023`
