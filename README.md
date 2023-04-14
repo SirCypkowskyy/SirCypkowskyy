@@ -48,6 +48,12 @@
     <a href="https://cplusplus.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" width="40" height="40"/> 
   </a>
+  <a href="https://www.oracle.com/pl/database/technologies/appdev/sql.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="40" height="40"/> 
+  </a>
 </p>
 
 <!--- GitHub Stats (currently scrapped)
@@ -116,4 +122,4 @@
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 29/03/2023`
+`Last Manual Update on: 14/04/2023`
