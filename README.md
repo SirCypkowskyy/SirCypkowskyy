@@ -29,9 +29,14 @@
 
 
 <h3 align="center">Tech Stack:</h3>
+<p align="center">(From most to least mastered)</p>
+<h4 align="center">Programming:</h4>
 
-<p align="center">
-  <a href="https://www.java.com" target="_blank"> 
+<div align="center">
+  
+  [![My programming skills](https://skillicons.dev/icons?i=cs,java,python,cpp,ts,js,bash)](https://skillicons.dev)
+
+<!--   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
@@ -57,8 +62,39 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL" width="40" height="40"/> 
+  </a> -->
+</div>
+
+<h4 align="center">Frameworks and libraries:</h4>
+
+<div align="center">
+  
+[![My programming skills](https://skillicons.dev/icons?i=unity,dotnet,selenium,tailwind,vite,docker,fastapi,flask,react)](https://skillicons.dev)
+  
+</div>
+
+<h4 align="center">Databases:</h4>
+
+<div align="center">
+  
+   <a href="https://www.oracle.com/pl/database/technologies/appdev/sql.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="40" height="40"/> 
   </a>
-</p>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL" width="40" height="40"/> 
+  </a>
+  
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb" alt="SQLite and MongoDB"/>
+
+</div>
+
+<h4 align="center">Software, tools, environments & used IDEs:</h4>
+
+<div align="center">
+  
+[![Used software, environments and IDEs](https://skillicons.dev/icons?i=idea,visualstudio,vscode,pr,ae,github,cloudflare)](https://skillicons.dev)
+  
+</div>
 
 <!--- GitHub Stats (currently scrapped)
 <div align="center">
@@ -98,10 +134,10 @@
 <h3 align="center">WakaTime & Wakapi Stats:</h3>
 <div align="center">
   
-  <img src="https://img.shields.io/endpoint?url=https://waka.kpostek.dev/api/compat/shields/v1/Cyprian/interval:30_days&label=last 30d"/>
+<!--   <img src="https://img.shields.io/endpoint?url=https://waka.kpostek.dev/api/compat/shields/v1/Cyprian/interval:30_days&label=last 30d"/> -->
   <img src="https://wakatime.com/badge/user/08e334c0-a2a5-4c39-8173-a87d861cbd46.svg"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cyprian&api_domain=waka.kpostek.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cyprian&api_domain=waka.kpostek.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/> -->
 
 </div>
 <div align="center">
@@ -126,4 +162,4 @@
 
 [SirCypkowskyy](https://github.com/SirCypkowskyy)
 
-`Last Manual Update on: 14/04/2023`
+`Last Manual Update on: 02/05/2023`
