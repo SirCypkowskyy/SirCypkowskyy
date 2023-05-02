@@ -92,7 +92,7 @@
 
 <div align="center">
   
-[![Used software, environments and IDEs](https://skillicons.dev/icons?i=idea,visualstudio,vscode,pr,ae,github,cloudflare)](https://skillicons.dev)
+[![Used software, environments and IDEs](https://skillicons.dev/icons?i=idea,visualstudio,vscode,github,pr,ae,cloudflare)](https://skillicons.dev)
   
 </div>
 
