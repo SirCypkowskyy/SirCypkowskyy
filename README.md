@@ -34,7 +34,7 @@
 
 <div align="center">
   
-  [![My programming skills](https://skillicons.dev/icons?i=cs,java,python,cpp,ts,js,bash)](https://skillicons.dev)
+  [![My programming skills](https://skillicons.dev/icons?i=cs,java,python,ts,js,cpp,bash)](https://skillicons.dev)
 
 <!--   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -69,7 +69,7 @@
 
 <div align="center">
   
-[![My programming skills](https://skillicons.dev/icons?i=unity,dotnet,selenium,tailwind,vite,docker,fastapi,flask,react)](https://skillicons.dev)
+[![My programming skills](https://skillicons.dev/icons?i=unity,dotnet,selenium,tailwind,react,vite,docker,fastapi,flask)](https://skillicons.dev)
   
 </div>
 
